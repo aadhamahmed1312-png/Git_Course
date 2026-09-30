@@ -3,4 +3,4 @@ For my Git Course
 
 ## Project Notes
 
-This is a note
+This is a great note
